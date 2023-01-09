@@ -1,7 +1,8 @@
 # Latex Resource Latex OverLeaf
 
 
-## Youtube Resource personal tutorial https://www.youtube.com/playlist?list=PLUhIV-TEo8VbGlUzQlzxgv3SASSfrcbgK
+## Youtube Resource personal tutorial 
+* https://www.youtube.com/playlist?list=PLUhIV-TEo8VbGlUzQlzxgv3SASSfrcbgK
 
 * 1.- Overleaf Registro
 * 2.- OverLeaf Importando Proyecto Integrador
